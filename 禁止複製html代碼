@@ -1,0 +1,1 @@
+<body oncopy=alert('抱歉，本文禁止複製！'); event.returnValue=false; >
