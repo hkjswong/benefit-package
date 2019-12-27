@@ -2,6 +2,16 @@
 
 > 仲有就係聖誕快樂 🎄 
 
+### 呢度有咩軟體呢？
+
+- office破解
+- shadowrocket
+- windows激活
+- Adobe激活
+- iTunes 12.6.3（含app store）
+- ssr客戶端
+- 等等
+
 ---
 ### 持續更新，歡迎投稿 👏 
 
