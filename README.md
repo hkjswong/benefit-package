@@ -5,6 +5,8 @@
 ---
 ### 持續更新，歡迎投稿 👏 
 
+> ⚠️⚠️ 大文件存放onedrive，點擊跳轉 [大文件分享](https://1drv.ms/u/s!AlciDZ3AOgiajW7GYbljOJip-Wat?e=qSfkaG) :point_left:
+
 ### 聯繫方式 :bell:
 
 - Telegram：https://t.me/xwring :point_left:
